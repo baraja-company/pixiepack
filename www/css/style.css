@@ -1,0 +1,114 @@
+div.flash {
+	color: black;
+	background: #FFF9D7;
+	border: 1px solid #E2C822;
+	padding: 1em;
+	margin: 1em 0;
+}
+
+a[href^="#error:"] {
+	background: red;
+	color: white;
+}
+
+form .required label {
+	font-weight: bold;
+}
+
+form .error {
+	color: #D00;
+	font-weight: bold;
+}
+
+body {
+	background-image: url('../images/background.jpg');
+}
+
+h2 {
+	padding-right: 70px;
+	padding-top: 28px;
+	text-align: right;
+}
+
+li {
+	font-size: 15pt;
+	font-weight: bold;
+}
+
+li p {
+	font-size: 12pt;
+}
+
+.logo {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 30px;
+}
+
+.center {
+	width: 1000px;
+	margin-top: 162px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.web {
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url('../images/pixieback.jpg');
+	width: 100%;
+}
+
+.pm_sign_card {
+	margin: 8px;
+}
+
+.box_img {
+	padding-left: 45px;
+}
+
+.content {
+	float: right;
+	width: 700px;
+	margin-right: 70px;
+}
+
+.thumbnail {
+	margin: 10px;
+}
+
+.mainbody {
+	color: white;
+	background-image: url('../images/Blackback.png');
+	border: 2px solid black;
+	border-radius: 5px;
+	min-height: 796px;
+}
+
+.zahlavi {
+	background: #5b97a2;
+	border: 2px solid #408794;
+	border-radius: 5px;
+}
+
+.zapati {
+	background: #d98a24;
+	border: 2px solid #c86210;
+	border-radius: 5px;
+	height: 20px;
+}
+
+.tlacitkovmenu {
+	color: white;
+	border: 2px solid #3d806f;
+	border-radius: 5px;
+	background: #84b4bd;
+	opacity: 0.9;
+	font-size: small;
+	text-shadow: 1px 1px 3px #2c5057;
+	text-decoration: none;
+	padding: 2px 20px;
+	box-shadow: inset 0 0 6px #71e3c7;
+}
