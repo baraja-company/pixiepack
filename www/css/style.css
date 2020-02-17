@@ -70,7 +70,6 @@ li p {
 }
 
 .content {
-	float: right;
 	width: 700px;
 	margin-right: 70px;
 }
@@ -93,11 +92,18 @@ li p {
 	border-radius: 5px;
 }
 
-.zapati {
+.footer {
+	font-family: Arial;
 	background: #d98a24;
+	color: white;
+	padding: .25em 1em;
 	border: 2px solid #c86210;
 	border-radius: 5px;
 	height: 20px;
+}
+
+.footer a {
+	color: white;
 }
 
 .tlacitkovmenu {
