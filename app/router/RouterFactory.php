@@ -11,8 +11,8 @@ use Nette\StaticClass;
 
 final class RouterFactory
 {
-
 	use StaticClass;
+
 
 	/**
 	 * @return RouteList
@@ -25,6 +25,7 @@ final class RouterFactory
 
 		return $router;
 	}
+
 
 	/**
 	 * @return RouteList
@@ -45,5 +46,4 @@ final class RouterFactory
 
 		return $router;
 	}
-
 }
